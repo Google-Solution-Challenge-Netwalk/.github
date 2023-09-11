@@ -1,4 +1,3 @@
-# .github
 
 ## Google Solution Challenge
 
